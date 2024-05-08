@@ -1,0 +1,20 @@
+.customizerBox {
+  padding: 16px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.customizerGrid {
+  justify-content: center;
+  align-items: center;
+}
+
+.formControl {
+  margin-bottom: 8px;
+  width: 100%;
+}
+
+.selectLabel {
+  font-size: 14px;
+}

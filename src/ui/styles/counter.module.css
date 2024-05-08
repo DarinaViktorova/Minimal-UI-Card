@@ -1,0 +1,15 @@
+.incrementButton {
+  background-color: lightgreen;
+}
+
+.incrementButton:hover {
+  background-color: green;
+}
+
+.decrementButton {
+  background-color: pink;
+}
+
+.decrementButton:hover {
+  background-color: #f0768b;
+}
