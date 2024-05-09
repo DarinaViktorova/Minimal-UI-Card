@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+You are welcome to review the code for my components located in the src/ui directory.
+
 ## Getting Started
 
 First, install the dependencies:
