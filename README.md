@@ -4,7 +4,7 @@ You are welcome to review the code for my components located in the src/ui direc
 
 ## Work demonstration
 
-!(Result)[https://github.com/DarinaViktorova/Minimal-UI-Card/blob/main/img/2024-07-16%2023-28-38.gif]
+![Result](https://github.com/DarinaViktorova/Minimal-UI-Card/blob/main/img/2024-07-16%2023-28-38.gif)
 
 ## Getting Started
 
