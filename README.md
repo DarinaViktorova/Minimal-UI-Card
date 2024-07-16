@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 You are welcome to review the code for my components located in the src/ui directory.
 
+## Work demonstration
+
+()[https://github.com/DarinaViktorova/Minimal-UI-Card/blob/main/img/2024-07-16%2023-28-38.gif]
+
 ## Getting Started
 
 First, install the dependencies:
